@@ -1,0 +1,25 @@
+body{
+  background-color: aquamarine;
+}
+
+#wordInput, #searchWord,#enterWord, #search {
+  width: 200px;
+  padding: 10px;
+  margin: 5px;
+  font-size: 1.2em;
+  border: 1px solid #ccc;
+  display: block;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 70px;
+}
+
+#demo {
+  text-align: center;
+  font-size: 25px;
+  font-family: fantasy;
+}
